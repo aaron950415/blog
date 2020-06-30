@@ -14,7 +14,7 @@ Moreover I also addition join a study organization that is '饥人谷'， which 
 Now I had learned `html`, `css` and `javascript`. After that, I prepare to learn the frame of `react` and `vue`.
 
 I like this function and do it everyday:
-```
+```javascript
 function (day) {
     let Itoday = 1;
     let improveRate = 0.1;
